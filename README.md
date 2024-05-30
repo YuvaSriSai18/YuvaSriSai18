@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Yuva Sri Sai</h1>
 <h3 align="center">Crafting Code, One Commit at a Time 🚀</h3>
 
