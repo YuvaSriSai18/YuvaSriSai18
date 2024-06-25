@@ -17,6 +17,7 @@
  <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/v2/resize:fit:280/1*4L0V4NfPLm50GPa-aKWEtw@2x.png" alt="FlutterFlow" width="40" height="40"/> </a>
 </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvasrisai18&" alt="yuvasrisai18" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvasrisai18&show_icons=true&locale=en&layout=compact" alt="yuvasrisai18" /></p>
 
 <!--
