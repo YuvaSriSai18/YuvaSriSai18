@@ -16,7 +16,6 @@
 <a href="https://flutterflow.io/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/v2/resize:fit:280/1*4L0V4NfPLm50GPa-aKWEtw@2x.png" alt="FlutterFlow" width="40" height="40"/> </a>
 </p>
 
-<p><a href="https://www.buymeacoffee.com/yuvasrisai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yuvasrisai" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvasrisai18&show_icons=true&locale=en&layout=compact" alt="yuvasrisai18" /></p>
 
