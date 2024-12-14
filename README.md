@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Yuva Sri Sai</h2>
 <h3 align="center">Crafting Code, One Commit at a Time 🚀</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvasrisai18&label=Profile%20views&color=0e75b6&style=flat" alt="yuvasrisai18" /> </p>
+
 - 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **DevOps**
