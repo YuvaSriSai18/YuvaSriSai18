@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋, I'm Yuva Sri Sai</h2>
 <h3 align="center">Crafting Code, One Commit at a Time 🚀</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvasrisai18&label=Profile%20views&color=0e75b6&style=flat" alt="yuvasrisai18" /> </p>
 - 🔭 I’m currently working on **Full Stack Projects**
+
+- 🌱 I’m currently learning **DevOps**
+
+- 💬 Ask me about **Flutterflow , React Express**
 ##
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvasrisai18&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="180" alt="stats graph"  />
