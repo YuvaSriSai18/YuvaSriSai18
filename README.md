@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **SecOps**
 
 - 💬 Ask me about **Flutterflow , React Express**
 ##
